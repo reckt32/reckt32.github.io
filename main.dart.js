@@ -81528,7 +81528,7 @@ r=B.b.xY(g,new A.acu(s),new A.acv())
 g=i.e
 g===$&&A.a()
 q=g.length
-g=A.cd("BPGC EVERYONE",h,h,h,A.cL(B.i,h,B.ae,h),h,h)
+g=A.cd("BITSEye",h,h,h,A.cL(B.i,h,B.ae,h),h,h)
 p=i.f
 p===$&&A.a()
 o=A.cL(B.i,h,B.ae,h)
@@ -81892,7 +81892,7 @@ A.zk.prototype={
 an(){return new A.SH(B.k)}}
 A.SH.prototype={
 K(a){var s=A.cL(B.i,null,B.ae,null),r=this.d,q=t.fo
-return new A.qb(A.ad(new A.ai(A.b(["Sort","Sort by CGPA","Sort by Name","Sort by Hostel"],t.s),new A.ahM(),q),!0,q.i("az.E")),r,new A.ahN(this),s,B.aW,null,t.Af)},
+return new A.qb(A.ad(new A.ai(A.b(["Sort","Sort by CGPA","Sort by Name","Sort by Room No."],t.s),new A.ahM(),q),!0,q.i("az.E")),r,new A.ahN(this),s,B.aW,null,t.Af)},
 ake(){this.ai(new A.ahT(this))},
 VN(){B.b.dO(this.a.c,new A.ahS())},
 VM(){this.ai(new A.ahR(this))},
