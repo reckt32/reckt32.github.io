@@ -81903,7 +81903,7 @@ s.ai(new A.ahL(s,a))
 if(a==="Sort")return s.ake()
 else if(a==="Sort by CGPA")s.VJ()
 else if(a==="Sort by Name")s.VN()
-else if(a==="Sort by Hostel")s.VM()
+else if(a==="Sort by Room No.")s.VM()
 s.a.d.$0()},
 $S:155}
 A.ahL.prototype={
