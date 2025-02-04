@@ -78809,7 +78809,7 @@ xb(){var s=0,r=A.S(t.N),q,p=2,o,n,m,l,k,j
 var $async$xb=A.T(function(a,b){if(a===1){o=b
 s=p}while(true)switch(s){case 0:p=4
 s=7
-return A.W(A.awv(A.eJ("https://bitseye.azurewebsites.net//everyone",0,null)),$async$xb)
+return A.W(A.awv(A.eJ("https://bitseye.azurewebsites.net/everyone",0,null)),$async$xb)
 case 7:n=b
 if(n.b===200){l=n
 l=A.awp(J.bc(A.avw(l.e).c.a,"charset")).en(0,l.w)
@@ -78835,7 +78835,7 @@ x9(){var s=0,r=A.S(t.N),q,p=2,o,n,m,l,k,j
 var $async$x9=A.T(function(a,b){if(a===1){o=b
 s=p}while(true)switch(s){case 0:p=4
 s=7
-return A.W(A.awv(A.eJ("https://bitseye.azurewebsites.net//hostel",0,null)),$async$x9)
+return A.W(A.awv(A.eJ("https://bitseye.azurewebsites.net/hostel",0,null)),$async$x9)
 case 7:n=b
 if(n.b===200){l=n
 l=A.awp(J.bc(A.avw(l.e).c.a,"charset")).en(0,l.w)
@@ -78862,7 +78862,7 @@ yx(a){return this.aie(a)},
 aie(a){var s=0,r=A.S(t.Wd),q,p,o,n
 var $async$yx=A.T(function(b,c){if(b===1)return A.P(c,r)
 while(true)switch(s){case 0:A.pM(a)
-p=A.eJ("https://bitseye.azurewebsites.net//hide",0,null)
+p=A.eJ("https://bitseye.azurewebsites.net/hide",0,null)
 o=t.N
 n=A.aq(["Content-Type","application/json"],o,o)
 s=3
